@@ -1,5 +1,6 @@
 # gotcpsrv
 a tcp server with the protobuf format to data exchange
+调试过了，挺好用的
 
 ## how to use
 
